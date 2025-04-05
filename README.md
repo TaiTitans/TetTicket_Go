@@ -1,4 +1,4 @@
-# go-backend-vetautet
+# go-backend
 
 ## How to run 
 
